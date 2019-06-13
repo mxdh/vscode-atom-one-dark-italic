@@ -120,7 +120,8 @@
                 "keyword.control"
             ],
             "settings": {
-                "foreground": "#C678DD"
+                "foreground": "#C678DD",
+                "fontStyle": "italic"
             }
         },
         {
@@ -258,6 +259,16 @@
             ],
             "settings": {
                 "foreground": "#ABB2BF"
+            }
+        },
+        {
+            "name": "Variable Language methods",
+            "scope": [
+                "variable.language"
+            ],
+            "settings": {
+                "foreground": "#ABB2BF",
+                "fontStyle":"italic"
             }
         },
         {
